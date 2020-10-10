@@ -2,7 +2,7 @@
   "name": "react-form-validation-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bilal68.github.io/connecttavo-FE",
+  "homepage": "http://bilal68.github.io/connecttavo-new-FE",
   "dependencies": {
     "axios": "^0.20.0",
     "bootstrap": "^3.3.7",
